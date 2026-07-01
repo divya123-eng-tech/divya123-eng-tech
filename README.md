@@ -36,7 +36,8 @@ Password strength prediction system using:
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/divya-sinnur-6522a0362
-- GitHub: https://github.com/divya123-eng-tech
+- 💼 LinkedIn: https://www.linkedin.com/in/divya-sinnur-6522a0362
+- 💻 GitHub: https://github.com/divya123-eng-tech
+- 📧 Email: divyasinnur18@gmail.com
 
 ⭐ Thanks for visiting my profile!
